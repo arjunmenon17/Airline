@@ -1,0 +1,44 @@
+1:1:Destiney Eaton:374 Queen Dr. Orlando, FL 32835:33:AD92EQJTI:false:Bun,Pretzel,Fruit Piece,Sweet & Sour Soup,Egg drop Soup:Water,Vodka,Whiskey
+2:5:Jayce Fischer:231 Poplar Street Brandon, FL 33511:41:CMV0WW1FM:false:Bun,Pretzel,Fruit Piece,Crab Soup,BLT:Bud Light,Champagne,Brandy
+3:2:Denisse Ramos:317 Nicolls Ave. Miami, FL 33142:18:YBK0M45H4:false:Bun,Pretzel,Fruit Piece,Chicken Soup,Chicken Fried Rice:Water,Orange Juice,Apple Juice
+4:3:Jaydan Kirby:59 Lakewood St. Middleburg, FL 32068:22:9RVU1OMSD:true:Bun,Pretzel,Fruit Piece,Lentil Soup,Chickpea Salad Sandwich:Water,Orange Juice,Cocktail
+4:6:Kareem Hanna:44 N. Wintergreen Dr. Key West, FL 33040:52:9W37J6BP4:false:Bun,Pretzel,Fruit Piece,Veggie Fried Rice,Curry Chicken:Apple Juice,Budweiser,Brandy
+6:2:Giancarlo Peters:600 Ashley St. Hialeah, FL 33016:27:3H3PJPECB:false:Bun,Pretzel,Fruit Piece,Cheese Pizza,Garlic Shrimp:Orange Juice,Heineken,Whiskey
+6:5:Lexi Clarke:51 Walnut Lane Miami, FL 33165:54:LYHW3JR2D:true:Bun,Pretzel,Fruit Piece,Salad,Macaroni & Cheese:Water,Orange Juice,Rum
+7:5:Sabrina Howard:91 Sherman St. Deltona, FL 32725:33:B7E3L62R1:false:Bun,Pretzel,Fruit Piece,Fish and Chips,Caviar:Water,Bud Light,Vodka
+8:2:Lilia West:9122 Nichols Dr. Pensacola, FL 32506:20:L6X3ZJ50W:true:Bun,Pretzel,Fruit Piece,Pasta,Veggie Fried Rice:Bud Light,Vodka,Brandy
+9:5:Zaire Petty:698 Brandywine St. Venice, FL 34293:29:GWVSWHEOL:false:Bun,Fruit Piece,Chicken Soup:Water,Heineken
+10:2:Scarlet Moyer:99 Poor House Dr. Jacksonville, FL 32225:30:0BCDLROTC:false:Bun,Pretzel,Beef Wrap:Orange Juice,Bud Light
+10:4:Tanner Atkinson:862 Temple Ave. Tallahassee, FL 32303:18:2G2OMW7B3:false:Pretzel,Fruit Piece,Hot Dog:Water,Apple Juice
+11:2:Jalen Moyer:85 Plumb Branch Ave. Miami, FL 33147:17:RRGIYIDPH:true:Bun,Pretzel,Lentil Soup:Orange Juice,Apple Juice
+11:6:Kolby Burke:16 Hilltop St. Palmetto, FL 34221:26:8FYS15JRB:false:Bun,Fruit Piece,Salad:Budweiser,Bud Light
+12:1:Maggie Knox:8397 Roberts Dr. Palm Harbor, FL 34683:21:4WCEHRTZT:false:Pretzel,Fruit Piece,Beef Wrap:Heineken,Budweiser
+12:5:Vanessa Page:956 River Rd. Valrico, FL 33594:37:T4KKEDE9J:true:Pretzel,Fruit Piece,Pasta:Water,Orange Juice
+13:2:Corey Tran:807 Shub Farm Drive Fort Lauderdale, FL 33324:34:1WVKXJWLX:false:Bun,Pretzel,Hot Dog:Orange Juice,Heineken
+14:5:Rafael Flores:326 Edgewood Lane Winter Springs, FL 32708:28:0NTJOTX2H:false:Pretzel,Fruit Piece,Lentil Soup:Water,Bud Light
+15:1:Cheyenne Watts:72 Pawnee St. Tampa, FL 33615:40:CKV8N81EP:false:Bun,Fruit Piece,Chicken Soup:Water,Apple Juice
+15:3:Armani Malone:78 E. Bow Ridge Street Orlando, FL 32825:45:WR35WUEAG:false:Pretzel,Fruit Piece,Beef Wrap:Apple Juice,Heineken
+15:4:Laurel Ware:8435 St Margarets St. Cape Coral, FL 33904:29:34RWI4Y6P:true:Bun,Pretzel,Salad:Budweiser,Bud Light
+15:6:Miles Blake:461 NE. Glenwood Court Hialeah, FL 33015:33:F4RCSVVFO:false:Bun,Pretzel,Hot Dog:Water,Budweiser
+16:2:Leia Le:335 Old Aspen Lane Jacksonville, FL 32244:35:2W0SRPFQC:false:Bun,Fruit Piece,Chicken Soup:Orange Juice,Heineken
+16:4:Matthew Morse:8870 S. Buttonwood Court Opa Locka, FL 33056:16:9K2NGTLWA:false:Pretzel,Fruit Piece,Beef Wrap:Water,Apple Juice
+17:1:Corey Cantu:260 Andover Dr. Hialeah, FL 33018:44:1J2Y7FILB:false:Bun,Pretzel,Hot Dog:Water,Apple Juice
+17:6:Deshawn Lee:74 William Ave. Homestead, FL 33033:55:ZPM6VT0X9:false:Bun,Fruit Piece,Chicken Soup:Orange Juice,Apple Juice
+18:1:Yadira Lamb:99 Pierce Ave. Fort Lauderdale, FL 33312:29:AK1TMW1C2:true:Bun,Pretzel,Lentil Soup:Heineken,Budweiser
+19:3:Noel Terry:7389 Cemetery St. North Miami Beach, FL 33160:33:TAWR9VPJT:true:Pretzel,Fruit Piece,Pasta:Heineken,Bud Light
+19:5:Ali Morrison:77 Wild Rose Rd. Port Saint Lucie, FL 34952:40:TOI2LJ4UT:false:Bun,Pretzel,Chicken Soup:Budweiser,Bud Light
+20:3:Zackary Mueller:8254 Ann Drive Miami Beach, FL 33141:42:0XVQ045GT:false:Pretzel,Fruit Piece,Beef Wrap:Water,Heineken
+20:5:Jordin Alvarez:65 South Henry Smith St. Tallahassee, FL 32304:34:ISITSRXDG:false:Pretzel,Fruit Piece,Hot Dog:Apple Juice,Budweiser
+21:1:Xander Mata:87 Wayne Rd. Bradenton, FL 34205:22:MDXX1ELRF:false:Bun,Fruit Piece,Hot Dog:Orange Juice,Bud Light
+22:3:Alisson Cooper:411 Roehampton Dr. Sarasota, FL 34231:27:KYAUQE9OO:false:Pretzel,Fruit Piece,Chicken Soup:Water,Orange Juice
+23:1:Avah Gay:3 Bohemia St. Tampa, FL 33604:61:51PWFZ9TI:false:Bun,Fruit Piece,Hot Dog:Heineken,Budweiser
+23:5:Karlie Shaffer:697 W. Grant Drive Orlando, FL 32810:46:HF094PCZJ:false:Bun,Pretzel,Hot Dog:Apple Juice,Bud Light
+24:2:Guadalupe Berger:5 Pin Oak Lane Opa Locka, FL 33055:55:05CN26LET:true:Bun,Fruit Piece,Salad:Water,Apple Juice
+25:3:Cailyn Macdonald:650 Arcadia St. Fort Lauderdale, FL 33334:17:02L3WEG6Q:false:Bun,Pretzel,Beef Wrap:Orange Juice,Apple Juice
+25:4:Dangelo Garcia:8 East Aspen Street Fort Lauderdale, FL 33351:22:DXVDZAWZK:false:Pretzel,Fruit Piece,Beef Wrap:Heineken,Bud Light
+25:6:Ashlee Vance:8355 Taylor Dr. Sarasota, FL 34232:15:2E75G2OT4:false:Bun,Pretzel,Beef Wrap:Water,Orange Juice
+26:1:Urijah Dean:15 Oklahoma Lane Melbourne, FL 32935:39:ZH45R62HK:true:Bun,Pretzel,Salad:Water,Orange Juice
+27:5:Kaylie Gill:9363 High Point St. Tampa, FL 33617:33:JKEFVT9UV:false:Pretzel,Fruit Piece,Chicken Soup:Budweiser,Bud Light
+28:2:Fabian Washington:603 Pennington St. Tampa, FL 33624:29:VI7BY319I:false:Pretzel,Fruit Piece,Beef Wrap:Heineken,Budweiser
+29:2:Fabian Coffey:7351 Oxford Street Miami, FL 33162:20:LM6FQDCGZ:false:Bun,Fruit Piece,Hot Dog:Water,Bud Light
+30:6:Owen Harrington:51 Westport Street Daytona Beach, FL 32114:35:TMTIQQYQU:false:Bun,Pretzel,Beef Wrap:Orange Juice,Apple Juice
